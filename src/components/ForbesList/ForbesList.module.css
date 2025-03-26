@@ -58,6 +58,9 @@
 
   background-color: var(--color-white);
 
+  display: flex;
+  justify-content: space-between;
+
   &:hover {
     transform: scale(1.02);
     box-shadow: var(--shadow-small);
